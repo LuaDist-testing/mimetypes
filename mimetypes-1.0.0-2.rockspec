@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "mimetypes"
-version = "1.0.0-1"
+version = "1.0.0-2"
 -- LuaDist source
 source = {
-  tag = "1.0.0-1",
+  tag = "1.0.0-2",
   url = "git://github.com/LuaDist-testing/mimetypes.git"
 }
 -- Original source
 -- source = {
 --     url = "https://bitbucket.org/leafstorm/lua-mimetypes/get/v1.0.0.tar.gz",
---     dir = "lua-mimetypes"
+--     dir = "leafstorm-lua-mimetypes-02100ff1171e"
 -- }
 
 description = {
